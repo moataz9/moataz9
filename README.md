@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moataz samir
+- 👋 Hi, I’m @moataz
 - 👀 I’m interested in learning web skills
 - 🌱 I’m currently learning Nuxt.js
 - 💞️ I’m looking to collaborate on usefull projects
